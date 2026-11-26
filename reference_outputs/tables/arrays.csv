@@ -1,0 +1,7 @@
+sample,soft_column_shift_repaired,channel_orientation_source,channel1_treatment,channel2_treatment,n_spots_total,n_spots_signal_pass,signal_pass_fraction,raw_signal_threshold,lowess_fraction,median_raw_M_before_lowess,median_M_after_lowess,present_flag_available,preprocessing_method,time
+GSM85323,False,metadata,GH,PBS,21446,21328,0.994497808449128,100.0,0.3,0.17687776208407918,-0.00991148976858336,False,background-subtracted median + robust LOWESS,6h
+GSM85324,False,metadata,GH,PBS,21446,21316,0.9939382635456495,100.0,0.3,-0.0783794074855714,-0.004322359004898635,False,background-subtracted median + robust LOWESS,6h
+GSM85325,False,metadata,GH,PBS,21446,21343,0.9951972395784762,100.0,0.3,-0.061400544664143256,-0.004225432308853638,False,background-subtracted median + robust LOWESS,6h
+GSM85326,False,metadata,GH,PBS,21446,21445,0.9999533712580435,100.0,0.3,-0.10735740929649183,-0.011319669362677143,False,background-subtracted median + robust LOWESS,24h
+GSM85327,False,metadata,GH,PBS,21446,21444,0.9999067425160869,100.0,0.3,0.857374091708083,-0.007267331380039738,False,background-subtracted median + robust LOWESS,24h
+GSM85328,False,metadata,GH,PBS,21446,21446,1.0,100.0,0.3,0.09779297809485987,-0.002682015876307786,False,background-subtracted median + robust LOWESS,24h
