@@ -1,0 +1,13 @@
+screen,cell_state,False,True
+bone/perichondrium,hypertrophic,15,292
+bone/perichondrium,prehypertrophic,10,270
+bone/perichondrium,proliferative,2,169
+bone/perichondrium,resting,1,8
+cartilage,hypertrophic,416,226
+cartilage,prehypertrophic,683,270
+cartilage,proliferative,844,362
+cartilage,resting,2463,193
+immune,hypertrophic,295,12
+immune,prehypertrophic,103,6
+immune,proliferative,156,14
+immune,resting,15,11

@@ -1,0 +1,4 @@
+,weight_method,n_ranked,n_common_with_primary,rank_spearman_vs_primary,top_k,top_k_jaccard_vs_primary
+0,primary,123,123,1.0,20,1.0
+1,effect_only,121,61,0.7144198099488698,20,0.14285714285714285
+2,evidence_only,123,58,0.16909683770148892,20,0.17647058823529413

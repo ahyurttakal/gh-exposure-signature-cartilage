@@ -1,0 +1,44 @@
+quantity,computed,reported,tolerance,passed
+BH discoveries 6h,0.0,0.0,0.0,True
+BH discoveries 24h,2.0,2.0,0.0,True
+BH discoveries combined,909.0,909.0,0.0,True
+Selected passing combined BH,262.0,262.0,0.0,True
+Temporal Spearman,0.8173256304778759,0.817,0.0005,True
+Cells,6836.0,6836.0,0.0,True
+Mapped signature genes,153.0,153.0,0.0,True
+Nonconstant genes,150.0,150.0,0.0,True
+Inside interval,1833.0,1833.0,0.0,True
+Original peak,0.7182274247491639,0.718,0.0005,True
+Original lower edge,0.5145484949832776,0.515,0.0005,True
+Original upper edge,0.7925863991081383,0.793,0.0005,True
+Cartilage-cluster cells,5457.0,5457.0,0.0,True
+Restricted peak,0.016666666666666666,0.017,0.0005,True
+Interior amplitude,0.7033523774161372,0.7,0.005,True
+Three-variable matched interior p,0.14085914085914086,0.141,0.0005,True
+weight_permutation_p_amplitude,0.07192807192807193,0.0719,0.0005,True
+matched_gene_p_amplitude,0.08691308691308691,0.0869,0.0005,True
+weight_permutation_p_variance,0.03796203796203796,0.038,0.0005,True
+matched_gene_p_variance,0.03596403596403597,0.036,0.0005,True
+GSE87605 observed_structure_statistic,0.018636988897210265,0.0186,0.0005,True
+GSE87605 label_permutation_p,0.17682317682317683,0.177,0.0005,True
+GSE87605 matched_gene_p,0.2017982017982018,0.202,0.0005,True
+GSE14007 observed_structure_statistic,0.08169794582094325,0.0817,0.0005,True
+GSE14007 label_permutation_p,0.000999000999000999,0.000999000999000999,0.0005,True
+GSE14007 matched_gene_p,0.000999000999000999,0.000999000999000999,0.0005,True
+Shared symbols,14499.0,14499.0,0.0,True
+Paired similarity,0.8404665759509092,0.84047,5e-06,True
+Shuffled mean,0.8363716810131336,0.83637,5e-06,True
+Ortholog pairs,13680.0,13680.0,0.0,True
+Ortholog similarity,0.840548447343587,0.84054845,1e-08,True
+Signature subset n,144.0,144.0,0.0,True
+Signature subset shuffle p,0.0108989101089891,0.0109,5e-05,True
+Size peak range,0.003232998885172811,0.00323,5e-06,True
+Weight peak range,0.1325529542920847,0.133,0.0005,True
+Graph peak range,0.09052396878483826,0.0905,5e-05,True
+Wnt5a primary,1.0,1.0,0.0,True
+Wnt5a effect_only,5.0,5.0,0.0,True
+Wnt5a evidence_only,110.0,110.0,0.0,True
+Candidate rank correlation,0.4417583238251793,0.442,0.0005,True
+Top-20 Jaccard,0.15966386554621848,0.16,0.005,True
+Noise positives,17.0,17.0,0.0,True
+Signal positives,200.0,200.0,0.0,True
