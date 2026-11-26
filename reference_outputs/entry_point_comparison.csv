@@ -1,0 +1,130 @@
+file,comparison,passed
+E15_GH_alias_curve.csv,exact table or matrix content,True
+E15_GH_alias_draws.csv.gz,exact table or matrix content,True
+E15_GH_curve.csv,exact table or matrix content,True
+E15_GH_draws.csv.gz,exact table or matrix content,True
+E15_cells.csv.gz,exact table or matrix content,True
+E15_gene_omissions.csv,exact table or matrix content,True
+E15_heldout_GH_curve.csv,exact table or matrix content,True
+E15_heldout_GH_draws.csv.gz,exact table or matrix content,True
+E15_heldout_hypertrophic_curve.csv,exact table or matrix content,True
+E15_heldout_hypertrophic_draws.csv.gz,exact table or matrix content,True
+E15_heldout_resting_curve.csv,exact table or matrix content,True
+E15_heldout_resting_draws.csv.gz,exact table or matrix content,True
+E15_hypertrophic_curve.csv,exact table or matrix content,True
+E15_hypertrophic_draws.csv.gz,exact table or matrix content,True
+E15_lineages.csv,exact table or matrix content,True
+E15_marker_bins.csv,exact table or matrix content,True
+E15_modules.csv,exact table or matrix content,True
+E15_receptors.csv,exact table or matrix content,True
+E15_resting_curve.csv,exact table or matrix content,True
+E15_resting_draws.csv.gz,exact table or matrix content,True
+E15_selection.csv.gz,exact table or matrix content,True
+E15_sex_by_quartile.csv,exact table or matrix content,True
+E15_symbol_mapping.csv,exact table or matrix content,True
+GSE14007_burden.csv,exact table or matrix content,True
+GSE14007_null.csv,exact table or matrix content,True
+GSE14007_samples.csv,exact table or matrix content,True
+GSE14007_zone_means.csv,exact table or matrix content,True
+GSE87605_burden.csv,exact table or matrix content,True
+GSE87605_null.csv,exact table or matrix content,True
+GSE87605_samples.csv,exact table or matrix content,True
+GSE87605_zone_means.csv,exact table or matrix content,True
+GSE9160_samples.csv,exact table or matrix content,True
+GSE9160_zone_means.csv,exact table or matrix content,True
+H1_figure_values.csv,exact table or matrix content,True
+H1_original_null.csv,exact table or matrix content,True
+H1_revision_null.csv,exact table or matrix content,True
+P28_GH_alias_curve.csv,exact table or matrix content,True
+P28_GH_alias_draws.csv.gz,exact table or matrix content,True
+P28_GH_curve.csv,exact table or matrix content,True
+P28_GH_draws.csv.gz,exact table or matrix content,True
+P28_cells.csv.gz,exact table or matrix content,True
+P28_format_audit.csv,exact table or matrix content,True
+P28_heldout_GH_curve.csv,exact table or matrix content,True
+P28_heldout_GH_draws.csv.gz,exact table or matrix content,True
+P28_heldout_hypertrophic_curve.csv,exact table or matrix content,True
+P28_heldout_hypertrophic_draws.csv.gz,exact table or matrix content,True
+P28_heldout_resting_curve.csv,exact table or matrix content,True
+P28_heldout_resting_draws.csv.gz,exact table or matrix content,True
+P28_hypertrophic_curve.csv,exact table or matrix content,True
+P28_hypertrophic_draws.csv.gz,exact table or matrix content,True
+P28_lineages.csv,exact table or matrix content,True
+P28_marker_bins.csv,exact table or matrix content,True
+P28_modules.csv,exact table or matrix content,True
+P28_receptors.csv,exact table or matrix content,True
+P28_resting_curve.csv,exact table or matrix content,True
+P28_resting_draws.csv.gz,exact table or matrix content,True
+P28_selection.csv.gz,exact table or matrix content,True
+P28_sex_by_quartile.csv,exact table or matrix content,True
+P28_symbol_mapping.csv,exact table or matrix content,True
+P9_control_transfer.csv,exact table or matrix content,True
+arrays.csv,exact table or matrix content,True
+calibrated_simulation.csv,exact table or matrix content,True
+canonical_probe_audit.csv,exact table or matrix content,True
+cells.csv.gz,exact table or matrix content,True
+cross_species.csv,exact table or matrix content,True
+detection_sensitivity.csv,exact table or matrix content,True
+expanded_target_qc.csv,exact table or matrix content,True
+features.csv,exact table or matrix content,True
+genes.csv,exact table or matrix content,True
+lineage_clusters.csv,exact table or matrix content,True
+lineage_membership.csv.gz,exact table or matrix content,True
+logcounts.npz,exact table or matrix content,True
+marker_composition_test.csv,exact table or matrix content,True
+original_GH_alias_curve.csv,exact table or matrix content,True
+original_GH_alias_draws.csv.gz,exact table or matrix content,True
+original_GH_curve.csv,exact table or matrix content,True
+original_GH_draws.csv.gz,exact table or matrix content,True
+original_cells.csv.gz,exact table or matrix content,True
+original_gene_omissions.csv,exact table or matrix content,True
+original_hypertrophic_curve.csv,exact table or matrix content,True
+original_hypertrophic_draws.csv.gz,exact table or matrix content,True
+original_interval_lineages.csv,exact table or matrix content,True
+original_marker_bins.csv,exact table or matrix content,True
+original_modules.csv,exact table or matrix content,True
+original_receptors.csv,exact table or matrix content,True
+original_resting_curve.csv,exact table or matrix content,True
+original_resting_draws.csv.gz,exact table or matrix content,True
+original_sex_by_quartile.csv,exact table or matrix content,True
+original_simulation_reference.csv,exact table or matrix content,True
+original_symbol_mapping.csv,exact table or matrix content,True
+orthologs.csv,exact table or matrix content,True
+pairing_nulls.csv,exact table or matrix content,True
+published_target_qc.csv,exact table or matrix content,True
+rank_matrix.csv,exact table or matrix content,True
+rank_summary.csv,exact table or matrix content,True
+ranks.csv,exact table or matrix content,True
+reported_values.tex,exact table or matrix content,True
+reproduction_audit.csv,exact table or matrix content,True
+retained_graph.csv,exact table or matrix content,True
+retained_size.csv,exact table or matrix content,True
+retained_weights.csv,exact table or matrix content,True
+revision_audit.csv,exact table or matrix content,True
+root_knn.csv,exact table or matrix content,True
+sex_marker_summary.csv,exact table or matrix content,True
+signature_size.csv,exact table or matrix content,True
+state_composition.csv,exact table or matrix content,True
+table1.csv,exact table or matrix content,True
+table1_counts.csv,exact table or matrix content,True
+table1_pseudotime.csv,exact table or matrix content,True
+table2.csv,exact table or matrix content,True
+trajectory_tests.csv,exact table or matrix content,True
+weights.csv,exact table or matrix content,True
+zonal_sex_probes.csv,exact table or matrix content,True
+zone_control_genes.csv,exact table or matrix content,True
+array_audit.png,identical decoded pixels,True
+atlas.png,identical decoded pixels,True
+embedding.png,identical decoded pixels,True
+fig08_response_window_sensitivity.png,identical decoded pixels,True
+fig11_signature_weighting_sensitivity.png,identical decoded pixels,True
+fig12_pseudotime_root_knn_robustness.png,identical decoded pixels,True
+fig14_h1_developmental_structure_null.png,identical decoded pixels,True
+fig15_h2_zonal_localization_null.png,identical decoded pixels,True
+heldout_ranking.png,identical decoded pixels,True
+lineage_profiles.png,identical decoded pixels,True
+maturation_markers.png,identical decoded pixels,True
+pairing.png,identical decoded pixels,True
+sex_evidence.png,identical decoded pixels,True
+time.png,identical decoded pixels,True
+zone_controls.png,identical decoded pixels,True
