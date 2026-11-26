@@ -1,0 +1,14 @@
+path	bytes	sha256	source
+annotations/mgi_gpl922.tsv.gz	68517	878fe47258ed484c97644f979b3f6955bbbd85fc3221670fc1784277c9419109	Frozen GPL922 slice of the MGI marker/synonym report; see DATA.md for upstream URL and uncompressed hashes.
+annotations/ortholog_pairs.csv.gz	61473	84d6c5c1d43e44902d6b80da80173f4a4273b2ca49c0303cfe329279d0975d27	Fixed Ensembl BioMart/Compara one-to-one identifier pairs from the submitted analysis; 13,680 records, no expression data.
+inputs/GSE14007_family.soft.gz	12327104	2b399508c006d6e88b7650cea701ba8d9ef112d3296afcbab65164bf7ee3100b	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14007/soft/GSE14007_family.soft.gz
+inputs/GSE3689_family.soft.gz	3732562	9a7fc5aa12fcf24b37c95035889309309910e62b51f5d64a9df21ab6656dbe8c	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3689/soft/GSE3689_family.soft.gz
+inputs/GSE87605_family.soft.gz	13851161	7dfe020975f273722e14893876452b96e5b060e7468a070953573e4965791754	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87605/soft/GSE87605_family.soft.gz
+inputs/GSE9160_family.soft.gz	16387403	7aedab33f66587178481c450222d3f31ef4fa19a396a4612b9108e5decfd89c3	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9160/soft/GSE9160_family.soft.gz
+inputs/GSM8769462_3402_filtered_feature_bc_matrix.h5	63910630	7520cd4efd317960084440736e1bc7f7dcd3c76c2451e45b58950d3bfdbf3393	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8769nnn/GSM8769462/suppl/GSM8769462_3402_filtered_feature_bc_matrix.h5
+inputs/P28/GSM8769462_barcodes.tsv.gz	63123	d3d59e9330c2a57ed917acaac1a67cc3ce420d8432348b5d1ce9d7bdb507a755	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8769nnn/GSM8769462/suppl/GSM8769462_barcodes.tsv.gz
+inputs/P28/GSM8769462_features.tsv.gz	290911	728997e15295b6edafe0dea9d34d389e8f44c59f2a5bef3b50344eeb4953bd27	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8769nnn/GSM8769462/suppl/GSM8769462_features.tsv.gz
+inputs/P28/GSM8769462_matrix.mtx.gz	170383732	bb6f23295e2d9e3d22106b0f0dd21a6beb3443ccfc6c48d9c4f6c6a36164104d	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8769nnn/GSM8769462/suppl/GSM8769462_matrix.mtx.gz
+inputs/sc/GSM8380938_barcodes.tsv.gz	31609	d04f3ed28a233971a032ab01df6c8bbec995a9f01f153f43463a6a39c2bfb27d	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8380nnn/GSM8380938/suppl/GSM8380938_barcodes.tsv.gz
+inputs/sc/GSM8380938_features.tsv.gz	260212	e5e298dbe8370341ed72d4c200e8c9358bd8d659f1e338a926b0d3b5f0413632	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8380nnn/GSM8380938/suppl/GSM8380938_features.tsv.gz
+inputs/sc/GSM8380938_matrix.mtx.gz	88195850	c5341288096e12079b155cf9ec589999549507e749e2e9c77a4512f28b06a23b	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8380nnn/GSM8380938/suppl/GSM8380938_matrix.mtx.gz

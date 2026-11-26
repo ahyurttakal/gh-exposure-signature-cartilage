@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this computational companion together with the study and the source datasets listed in DATA.md."
+type: software
+title: "Reproduction software for Projecting a whole-bone growth hormone exposure signature onto embryonic and postnatal cartilage"
+authors:
+  - family-names: Yurttakal
+    given-names: Ahmet Haşim
+  - family-names: Erbay
+    given-names: Hasan
+date-released: 2026-11-26
+license: MIT
+keywords:
+  - growth hormone
+  - cartilage
+  - reproducible research
+  - single-cell transcriptomics

@@ -1,0 +1,72 @@
+{
+  "analysis": "Whole-bone growth hormone exposure and cartilage cell state",
+  "validated_on": "2026-11-26",
+  "system": "Linux",
+  "architecture": "x86_64",
+  "python": "3.12.14",
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "statsmodels": "0.14.6",
+    "h5py": "3.16.0",
+    "matplotlib": "3.10.8",
+    "Pillow": "13.0.0",
+    "threadpoolctl": "3.6.0",
+    "ipykernel": "7.4.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "jupyterlab": "4.6.6"
+  },
+  "installation": "Fresh Python 3.12 virtual environment, requirements installed with pip, pip check passed.",
+  "notebook": {
+    "code_cells": 42,
+    "completed_code_cells": 42,
+    "errors": 0,
+    "inline_figures": 15,
+    "mode": "Fresh IPython kernel in a standalone directory, offline with checksummed inputs.",
+    "verified_GEO_files": 11,
+    "working_directory_contains_non_ASCII": true,
+    "exit_status": 0,
+    "elapsed_seconds": 167.5,
+    "peak_rss_mib": 4540.0
+  },
+  "live_download_test": {
+    "description": "An earlier build of the public notebook completed a live first run from an empty cache. A later live request was blocked by the execution host. The final build was run offline against the checksummed data from the successful live run.",
+    "verified_downloads": 11,
+    "code_cells_completed": 42,
+    "all_tables_and_decoded_PNGs_equal_to_final": true
+  },
+  "python_cli": {
+    "mode": "Independent clean directory with bundled GEO inputs, offline.",
+    "exit_status": 0,
+    "elapsed_seconds": 167.8,
+    "peak_rss_mib": 4428.8
+  },
+  "per_entrypoint": {
+    "implementation_checks": 6,
+    "historical_numerical_checks": 43,
+    "revision_numerical_checks": 37,
+    "figure_formats": [
+      "png",
+      "eps",
+      "pdf"
+    ],
+    "figure_exports": 45
+  },
+  "independent_entrypoint_comparison": {
+    "table_matrix_tex_files": 114,
+    "mode": "exact decompressed table content and sparse values",
+    "decoded_PNGs_compared": 15,
+    "all_equal": true
+  },
+  "comparison_with_frozen_manuscript_outputs": {
+    "table_matrix_tex_files": 114,
+    "rtol": 1e-08,
+    "atol": 1e-08,
+    "decoded_PNGs_compared": 15,
+    "all_passed": true
+  },
+  "platform_scope": "Execution tested on Linux. Conda specification uses the same direct pins as requirements.txt. Native Windows and macOS were not executed."
+}
