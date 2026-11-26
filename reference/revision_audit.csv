@@ -1,0 +1,38 @@
+quantity,computed,reported,tolerance,passed
+submitted_inside,1833.0,1833.0,0.0,True
+removed_from_submitted_inside,782.0,782.0,0.0,True
+E15_new_inside,425.0,425.0,0.0,True
+E15_new_outside,5032.0,5032.0,0.0,True
+E15 GH matched_p,0.5444555444555444,0.5445,0.0001,True
+P28 GH matched_p,0.7542457542457542,0.7542,0.0001,True
+E15 GH_alias matched_p,0.6333666333666333,0.6334,0.0001,True
+P28 GH_alias matched_p,0.902097902097902,0.9021,0.0001,True
+P28 hypertrophic direction_holm,0.0039960039960039,0.004,0.0001,True
+E15 hypertrophic direction_holm,0.7492507492507493,0.7493,0.0001,True
+P28 resting direction_holm,1.0,1.0,0.0001,True
+E15 resting direction_holm,1.0,1.0,0.0001,True
+P28_heldout hypertrophic direction_holm,0.0039960039960039,0.004,0.0001,True
+E15 GH amplitude,0.2608549634727727,0.2609,0.0001,True
+P28 GH amplitude,0.1866589078312105,0.1867,0.0001,True
+original ranked held-out genes,123.0,123.0,0.0,True
+original WNT5A omission rank,1.0,1.0,0.0,True
+original MEG3 omission rank,2.0,2.0,0.0,True
+E15 ranked held-out genes,120.0,120.0,0.0,True
+E15 WNT5A omission rank,1.0,1.0,0.0,True
+E15 MEG3 omission rank,2.0,2.0,0.0,True
+Evaluable published target/time pairs,19.0,19.0,0.0,True
+Direction agreement,18.0,18.0,0.0,True
+Absolute effect attenuation,19.0,19.0,0.0,True
+E15 symbol direct,153.0,153.0,0.0,True
+E15 symbol unique_alias,107.0,107.0,0.0,True
+E15 symbol ambiguous,2.0,2.0,0.0,True
+E15 symbol unmapped,38.0,38.0,0.0,True
+HDF5 and Matrix Market identical nonzero entries,45599673.0,45599673.0,0.0,True
+P28 multi-Y without Xist,5787.0,5787.0,0.0,True
+E15 Xist only,5339.0,5339.0,0.0,True
+Signal simulation null,15.0,15.0,0.0,True
+Signal simulation half GH,134.0,134.0,0.0,True
+Signal simulation GH,361.0,361.0,0.0,True
+Signal simulation hypertrophic control,500.0,500.0,0.0,True
+Figure S4 weight_permutation,0.0719280719280719,0.0719,5e-05,True
+Figure S4 matched_random_genes,0.0869130869130869,0.0869,5e-05,True
